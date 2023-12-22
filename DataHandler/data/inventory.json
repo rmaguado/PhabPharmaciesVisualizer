@@ -1,0 +1,53 @@
+{
+    "Cold and Flu": [
+        "Vicks Vaporub",
+        "Vicks First Defence",
+        "Gsk Night Nurse",
+        "Lemsip Max",
+        "Sudafed Day and Night",
+        "Sudafed Max",
+        "Benylin Mucus relief",
+        "Benylin 4 flu"
+    ],
+    "Skin Care": [
+        "E45 Psoriasis cream",
+        "Eurax Skin cream",
+        "Eucerin Skin relief cream",
+        "Eucerin Face scrub",
+        "Dermalex Psoriasis cream",
+        "Dermalex Repair and Restore",
+        "Dermalex Eczema cream",
+        "Cetaphil Moisturising cream",
+        "Cetaphil Exfoliating cleanser"
+    ],
+    "Headaches and pain relief": [
+        "Nurofen Meltlets",
+        "Nurofen Express",
+        "Nurofen Max strength",
+        "Nurofen Standard",
+        "Cuprofen Max strength",
+        "Solpadeine Headache",
+        "Anadin Extra",
+        "Anadin Triple action",
+        "Anadin Original",
+        "Disprin Soluble"
+    ],
+    "Digestion": [
+        "Dioralyte Blackcurrant",
+        "Dioralyte Lemon",
+        "Gaviscon Chewable",
+        "Senokot Max",
+        "Gaviscon Advance"
+    ],
+    "Allergy": [
+        "Benadryl Relief",
+        "Piriteze tabs",
+        "Beconase Relief"
+    ],
+    "First aid": [
+        "Dettol Antiseptic",
+        "Dettol Hand sanitizer",
+        "Elastoplast plasters",
+        "TCP Liquid"
+    ]
+}
